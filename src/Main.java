@@ -36,6 +36,7 @@ public class Main {
             arr[minIndex] = temp;
 
             System.out.println(Arrays.toString(arr));
+            //hi sensei
         }
     }
 }
